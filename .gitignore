@@ -17,3 +17,10 @@ wesnothd
 wesnoth-debug
 wesnothd-debug
 /jni/application/wesnoth-1.8.5/build
+/jni/application/wesnoth-1.8.5/translations
+/jni/application/wesnoth-1.8.5/po
+*.o
+*.po
+*.tar
+*.zip
+
